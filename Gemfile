@@ -8,6 +8,8 @@ gem 'bootstrap-sass', '~> 3.3.4'
 
 gem "font-awesome-rails"
 
+gem "simple_form"
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
